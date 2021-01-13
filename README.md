@@ -22,14 +22,14 @@ As long as the system is not connected to any external device i.e., Bluetooth or
 
 # 2. Faults, errors and failures
 
-a.      Error
-b.      Fault
-c.      Failure
-d.      Fault
-e.      Error
-f.      Failure
-g.      Error
-h.      Failure
+a) Error
+b) Fault
+c) Failure
+d) Fault
+e) Error
+f) Failure
+g) Error
+h) Failure
 
 # 3. Redundancy and Diversity
 
