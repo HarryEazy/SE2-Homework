@@ -33,7 +33,7 @@ h. Failure
 
 # 3. Redundancy and Diversity
 
-The Airbus 340 Flight Control System employs extensive redundancy and diversity measures to ensure dependability. Use the internet to research the Airbus 340 FCS. Describe the redundancy and diversity measures used by Airbus in the A340aircraft.
+**The Airbus 340 Flight Control System employs extensive redundancy and diversity measures to ensure dependability. Use the internet to research the Airbus 340 FCS. Describe the redundancy and diversity measures used by Airbus in the A340 aircraft.**
 
 When an aircraft is in operation there is no failsafe state so therefore the system must be designed to operate with faults.
 
