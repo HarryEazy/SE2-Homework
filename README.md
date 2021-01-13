@@ -1,14 +1,13 @@
-1. Writing a Dependability Case
+# 1. Writing a Dependability Case
 
-a.	Revisit the four module case studies. Rank the four case study systems in terms of the extent to which the system described is a safety critical system.
+### a.   Revisit the four module case studies. Rank the four case study systems in terms of the extent to which the system described is a safety critical system.
 
-1: Insulin
-2: Patient Information System for Mental Health
-3. Wilderness Weather Station
-4. Digital Learning environment
+1. Insulin
+1. Patient Information System for Mental Health
+1. Wilderness Weather Station
+1. Digital Learning environment
 
-
-b.	Create a dependability case for the system you have ranked as the most critical. This should include the following:
+### b.   Create a dependability case for the system you have ranked as the most critical. This should include the following:
 
 The insulin system will be used for people who have been diagnosed with type 1 diabetes. The device is attached to the person and will provide insulin for the user. The system performs blood sugar checks at regular time intervals the system must be worn by the user at all times.
 
@@ -21,24 +20,22 @@ As this system is worn by the user at all times, the need for resilience is impo
 
 As long as the system is not connected to any external device i.e., Bluetooth or Wi-Fi and doesn’t allow access to its internal working via the input on the device, the system will be quite secure from external penetration. However, care must be taken as the user of the device could potentially alter the device by opening it and programming it that way. So there needs to be a failsafe for that possibility i.e., device stops working when alter in a significant way that could allow access to the inner workings.
 
-2. Faults, errors and failures
+# 2. Faults, errors and failures
 
-a.	Error
-b.	Fault
-c.	Failure
-d.	Fault
-e.	Error
-f.	Failure
-g.	Error
-h.	Failure
+a.      Error
+b.      Fault
+c.      Failure
+d.      Fault
+e.      Error
+f.      Failure
+g.      Error
+h.      Failure
 
-3. Redundancy and Diversity
-
+# 3. Redundancy and Diversity
 
 The Airbus 340 Flight Control System employs extensive redundancy and diversity measures to ensure dependability. Use the internet to research the Airbus 340 FCS. Describe the redundancy and diversity measures used by Airbus in the A340aircraft.
 
 When an aircraft is in operation there is no failsafe state so therefore the system must be designed to operate with faults.
-
 
 Some of the diversity is achieved by replicating sensors and computers. When you duplicate some of the critical system components, it allows for a degradation in the case of a failure. What this means it that if the primary component of a critical system or the system has a failure then the secondary component/system will activate. This design allows for a robust system as your chances of having a critical failure is reduced due to the fact you have back up systems. i.e., the chances of an error occurring in both components is less than an error occurring in just 1.
 
